@@ -17,7 +17,7 @@ app.post("/deliver", async (req, res) => {
 			secure: false, // upgrade later with STARTTLS
 			auth: {
 				user: "silviosperanza97@gmail.com",
-				pass: "gpplvkkygoqaluhr",
+				pass: "",
 			},
 		});
 
